@@ -1,0 +1,12 @@
+.container{
+  margin: 100px auto;
+  border: 2px solid gray;
+  width: 360px;
+  background: #f7f7f7;
+  box-shadow: 0 0 3px rgba(0,0,0,0.1);
+}
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

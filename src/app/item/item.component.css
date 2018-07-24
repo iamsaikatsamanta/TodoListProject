@@ -1,0 +1,13 @@
+.completed{
+  color: gray;
+  text-decoration: line-through;
+}
+li{
+  background: #fff;
+  height: 40px;
+  line-height: 40px;
+  color: #666;
+}
+li:nth-child(2n){
+  background: #f7f7f7;
+}
